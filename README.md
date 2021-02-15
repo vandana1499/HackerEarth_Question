@@ -1,4 +1,4 @@
-# HackerEarth_Question
+# HackerEarth Question
 <ol>
   <li>
     Cost of Balloons (refrence)-: 
